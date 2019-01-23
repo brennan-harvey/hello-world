@@ -1,6 +1,8 @@
 # hello-world
 First repository
 
-Hello world!
+COS420: Object Oriented Design and Programming
+University of Southern Maine
+Spring 2019
 
-This is my first project on GitHub.  I'm an inexperienced compsci student looking to learn as much as I can about development and coding.  Wish me luck!
+I created a hello-world repo a few years ago when I took a git tutorial.  I will use this same repo for the purposes of Lab 1.
